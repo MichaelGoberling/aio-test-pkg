@@ -13,3 +13,4 @@ jobs:
   build:
     uses: adobe/aio-reusable-workflows/.github/workflows/node.js.yml@main
     secrets: inherit
+    secrets: inherit
